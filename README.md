@@ -11,7 +11,7 @@ Bu proje, **tüm büyük dil modelleri** ile entegre çalışabilen açık kayna
 ## 📸 Ekran Görüntüleri
 Aşağıda uygulamaya ait bazı ekran görüntüleri bulunmaktadır:
 
-![Ana Sayfa](docs/screenshots/homepage.png)
+![Ana Sayfa](docs/screenshots/1.png)
 
 ![Konuşma Geçmişi](docs/screenshots/conversation_history.png)
 
