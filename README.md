@@ -13,7 +13,11 @@ Aşağıda uygulamaya ait bazı ekran görüntüleri bulunmaktadır:
 
 ![Ana Sayfa](docs/screenshots/1.png)
 
-![Konuşma Geçmişi](docs/screenshots/conversation_history.png)
+![Konuşma Geçmişi](docs/screenshots/2.png)
+
+![Konuşma Geçmişi 2](docs/screenshots/3.png)
+
+![Kod Gösterimi](docs/screenshots/4.png)
 
 ## 🛠 Kurulum
 
