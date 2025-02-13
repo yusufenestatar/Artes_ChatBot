@@ -19,8 +19,8 @@ Aşağıda uygulamaya ait bazı ekran görüntüleri bulunmaktadır:
 
 ### 1️⃣ Depoyu Klonlayın
 ```sh
-git clone https://github.com/kullanici/anything-llm-web.git
-cd anything-llm-web
+git clone https://github.com/kullanici/anything-llm-web.git](https://github.com/yusufenestatar/Artes_ChatBot.git
+cd artes_chatbot
 ```
 
 
@@ -40,8 +40,6 @@ cd anything-llm-web
 Projeye katkı sağlamak isterseniz, **pull request** gönderebilir veya geliştirme sürecine dahil olabilirsiniz. 
 
 ## 📜 Lisans
-Bu proje GNU 3.0 lisansı ile yayınlanmıştır.
+Bu proje GPL-3.0 lisansı ile yayınlanmıştır.
 
 ---
-
-**Depoyu İncelemek İçin:** [GitHub Linki]
