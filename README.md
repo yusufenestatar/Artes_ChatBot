@@ -1,9 +1,9 @@
-# Anything LLM Web Uygulaması
+# Artes ChatBot Web Uygulaması
 
 Bu proje, **tüm büyük dil modelleri** ile entegre çalışabilen açık kaynaklı bir web uygulamasıdır. **Anything LLM** ile uyumlu olup, API anahtarınızı girerek farklı modellerle kolayca çalışmanıza olanak tanır. 
 
 ## 🚀 Özellikler
-- **Tüm LLM API'leri ile uyumlu**
+- **Tüm LLM'ler ile uyumlu**
 - **API anahtarınızı girerek** dilediğiniz modeli kullanabilirsiniz
 - **Son 50 konuşmayı** local storage üzerinde saklar
 - **Açık kaynak**, ihtiyacınıza göre özelleştirebilirsiniz
@@ -23,32 +23,24 @@ git clone https://github.com/kullanici/anything-llm-web.git
 cd anything-llm-web
 ```
 
-### 2️⃣ Bağımlılıkları Yükleyin
-```sh
-npm install
-```
-
-### 3️⃣ Uygulamayı Başlatın
-```sh
-npm start
-```
 
 ### 4️⃣ API Anahtarınızı Girin
 
-- Uygulama açıldıktan sonra, kullanmak istediğiniz LLM modelinin API anahtarını girerek çalıştırabilirsiniz.
+- Uygulama açıldıktan sonra, LLM modelini kullanabilmek için sizden Anything LLM API anahtarını isteyecektir anahtarı girerek kaydededip çalıştırabilirsiniz.
 - Son 50 konuşma **local storage** üzerinde saklanır.
 
 ## 📌 Kullanım
 
-1. **API anahtarınızı** girin.
-2. **İstediğiniz modeli** seçerek kullanmaya başlayın.
-3. **Son konuşmalarınızı** kayıpsız görüntüleyin.
+1. **Bilgisayarınıza Anything LLM** programını kurun.
+2. **İstediğiniz bir dil modelini** seçerek indirmeye başlayın.
+3. **Artes ChatBot** a Api key girerek kullanmaya başlayın.
+4. **Son konuşmalarınızı** kayıpsız görüntüleyin.
 
 ## 🔧 Katkıda Bulunun
 Projeye katkı sağlamak isterseniz, **pull request** gönderebilir veya geliştirme sürecine dahil olabilirsiniz. 
 
 ## 📜 Lisans
-Bu proje MIT lisansı ile yayınlanmıştır.
+Bu proje GNU 3.0 lisansı ile yayınlanmıştır.
 
 ---
 
